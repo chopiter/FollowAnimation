@@ -1,2 +1,2 @@
-# -FollowAnimation
-一个跟随动画效果
+# FollowAnimation
+一个跟随动画效果:
